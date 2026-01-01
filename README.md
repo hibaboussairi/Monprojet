@@ -41,4 +41,9 @@ Ce projet académique vise à explorer et comprendre en profondeur les **structu
 ## 🖥️ Technologies utilisées
 - **Python** (Tkinter pour l’interface graphique)
 - **Langage C** (implémentation des algorithmes avec une interface simple)
+<p align="center">
+  <a href="#telechargement">
+    <img src="https://img.shields.io/badge/Télécharger-Projet-blue?style=for-the-badge">
+  </a>
+</p>
 
