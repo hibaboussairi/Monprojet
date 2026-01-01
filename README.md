@@ -53,5 +53,23 @@ Ce projet académique vise à explorer et comprendre en profondeur les **structu
     <img src="https://img.shields.io/badge/Télécharger-Releases-blue?style=for-the-badge">
   </a>
 </p>
+---
+
+## 👤 Auteur
+
+**HIBA BOUSSAIRI**
+
+Étudiante en Genie informatique – Projet académique en  
+**Algorithmes & Structures de Données**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hiba-boussairi-b9770b384" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-HIBA%20BOUSSAIRI-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/hibaboussairi/Monprojet" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Monprojet-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
 
 
