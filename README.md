@@ -1,4 +1,4 @@
-# Projet : Exploration des Algorithmes & Structures de Données
+#🎓💻 Projet : Exploration des Algorithmes & Structures de Données
 
 Ce projet académique vise à explorer et comprendre en profondeur les **structures de données** et les **algorithmes**, à travers une approche **théorique**, **pratique** et **visuelle**.
 
@@ -53,7 +53,11 @@ Ce projet académique vise à explorer et comprendre en profondeur les **structu
     <img src="https://img.shields.io/badge/Télécharger-Releases-blue?style=for-the-badge">
   </a>
 </p>
-Un grand merci à M. F. KHOUKHI pour son encadrement et son accompagnement.
+---
+
+## 🎓 Encadrant
+
+**F. Khoukhi**
 
 ## 👤 Auteur
 
