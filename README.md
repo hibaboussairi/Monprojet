@@ -43,11 +43,11 @@ Ce projet académique vise à explorer et comprendre en profondeur les **structu
 - **Langage C** (implémentation des algorithmes avec une interface simple)
 ## ⬇️ Téléchargement
 
-| Version | Système | Lien |
-|-------|--------|------|
+| Version |
+|-------|
 | 💻 Version C [Télécharger](https://github.com/hibaboussairi/Monprojet/releases/download/v1.0/Version_C.zip) |
 | 💻 Version Python  [Télécharger](https://github.com/hibaboussairi/Monprojet/releases/download/v1.0/Version_Python.zip) |
-| 📦 Projet complet | Toutes versions | [Releases](https://github.com/hibaboussairi/Monprojet/releases/download/v1.0/Projetcomplet.zip) |
+| 📦 Projet complet  [Télécharger](https://github.com/hibaboussairi/Monprojet/releases/download/v1.0/Projetcomplet.zip) |
 <p align="center">
   <a href="https://github.com/hibaboussairi/Monprojet/releases">
     <img src="https://img.shields.io/badge/Télécharger-Releases-blue?style=for-the-badge">
