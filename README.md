@@ -42,4 +42,3 @@ Ce projet académique vise à explorer et comprendre en profondeur les **structu
 - **Python** (Tkinter pour l’interface graphique)
 - **Langage C** (implémentation des algorithmes avec une interface simple)
 
-## 📁 Structure du projet (à venir)
